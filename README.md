@@ -1,4 +1,4 @@
-# Java Design Patterns Interview Summary
+# Java Design Patterns Summary
 
 This document summarizes the essential design patterns, with diagrams, explanations, and a brief algorithm in pseudocode for each.
 
